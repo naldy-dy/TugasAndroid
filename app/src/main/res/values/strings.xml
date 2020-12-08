@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">tugas-1</string>
+    <string name="postingan">Postingan</string>
+    <string name="_54">54</string>
+    <string name="_237">237</string>
+    <string name="_25">25</string>
+    <string name="ikuti">Ikuti</string>
+    <string name="pengikut">Pengikut</string>
+    <string name="btn_follow">Mengikuti</string>
+    <string name="kirim_pesan">Kirim Pesan</string>
+</resources>
